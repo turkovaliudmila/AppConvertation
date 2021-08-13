@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AppConvertation</string>
+    <string name="text_btn_convert">Convert</string>
 </resources>
